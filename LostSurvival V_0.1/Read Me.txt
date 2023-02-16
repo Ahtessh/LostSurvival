@@ -1,0 +1,8 @@
+Done so far in V_0.1
+--> Multiplayer
+--> Two separate Avatars for 2 Players
+--> Animations Syncing
+--> Stabing 
+--> Knife kill
+--> Abilities
+--> 2Camera problem solved
